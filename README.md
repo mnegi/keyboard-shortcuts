@@ -1,7 +1,7 @@
 Mac OS Keyboard shortcuts
 =========================
 
-#Mac OS Key Symbols
+##Mac OS Key Symbols
 
 | Symbol    | Name              |
 | --------- |:------------------|
@@ -12,7 +12,7 @@ Mac OS Keyboard shortcuts
 | ⇪         | Caps Lock         |
 | Fn        | Function Key      |
 
-#Command Line Keyboard Shortcuts for Mac OS X
+##Command Line Keyboard Shortcuts for Mac OS X
 
 | Key           | Purpose                       |
 | ------------- |:------------------------------|
@@ -32,7 +32,7 @@ Mac OS Keyboard shortcuts
 | Esc + T       | Swap the last two words before the cursor|
 
 
-#Screen lock
+##Screen lock
 
 | Key           | Purpose                       |
 | ------------- |:------------------------------|
