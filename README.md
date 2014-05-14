@@ -1,8 +1,8 @@
 Mac OS Keyboard shortcuts
 =========================
 
-Mac OS Key Symbols
-------------------
+#Mac OS Key Symbols
+
 | Symbol    | Name              |
 | --------- |:------------------|
 | ⌘         | Command key       |
@@ -12,8 +12,8 @@ Mac OS Key Symbols
 | ⇪         | Caps Lock         |
 | Fn        | Function Key      |
 
-Command Line Keyboard Shortcuts for Mac OS X
---------------------------------------------
+#Command Line Keyboard Shortcuts for Mac OS X
+
 | Key           | Purpose                       |
 | ------------- |:------------------------------|
 | ⌃ + A         | Go to the beginning of the line you are currently typing on |
@@ -32,8 +32,8 @@ Command Line Keyboard Shortcuts for Mac OS X
 | Esc + T       | Swap the last two words before the cursor|
 
 
-Screen lock
---------------------------------------------
+#Screen lock
+
 | Key           | Purpose                       |
 | ------------- |:------------------------------|
 | ⌃ + Shift + Eject | Screen Lock (Mavericks) |
