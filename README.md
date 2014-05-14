@@ -30,3 +30,10 @@ Command Line Keyboard Shortcuts for Mac OS X
 | ⌃ + K         | Clear the line after the cursor|
 | ⌃ + T         | Swap the last two characters before the cursor|
 | Esc + T       | Swap the last two words before the cursor|
+
+
+Screen lock
+--------------------------------------------
+| Key           | Purpose                       |
+| ------------- |:------------------------------|
+| ⌃ + Shift + Eject | Screen Lock (Mavericks) |
